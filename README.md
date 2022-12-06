@@ -42,3 +42,5 @@ Typically, we want to ask the following questions:
 
 >> Many people won't assume they can trust your model for important decisions without verifying some basic facts. This is a smart precaution given the frequency of data errors. In practice, showing insights that fit their general understanding of the problem will help build trust, even among people with little deep knowledge of data science.
 
+
+In the Extract_insights_from_model_output_and_features notebook, I will demonstrate how to extract insights using permutation importance method.
