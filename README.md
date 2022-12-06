@@ -1,5 +1,4 @@
-###  How to get insight from model result:
-
+###  Insight from model result:
 
 When we have built a ML model, we need to explain to senior management and non-technical stakeholders. Even for data scientist, we want to understand why the model predicts this way and why not another, for example, we need to be able to answer why the bank cannot loan to this customer?
 
